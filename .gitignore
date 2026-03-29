@@ -1,0 +1,10 @@
+bin/
+coverage.out
+*.test
+.DS_Store
+.scratches
+.codex
+.claude
+.agents
+skills-lock.json
+skills/*
